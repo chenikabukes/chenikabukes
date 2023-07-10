@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chenikabukes
-- 👀 I’m interested in web developement and DevOps!
-- 🌱 I’m currently learning more about databases and low-level programming.
+- 👀 I’m interested in web developement and machine learning!
+- 🌱 I’m currently learning more about Angular and state management.
 - 💞️ I’m looking to collaborate on web dev projects!
 - 📫 How to reach me: chenikacatherin@gmail.com
 
