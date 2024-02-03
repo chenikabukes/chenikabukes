@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @chenikabukes
-- 👀 I’m interested in web developement and machine learning!
-- 🌱 I’m currently learning more about Django and Docker.
-- 💞️ I’m looking to collaborate on web dev projects!
 - 📫 How to reach me: chenikacatherin@gmail.com
 
 
